@@ -98,7 +98,7 @@ export default function DashboardScreen() {
           </View>
         </View>
       )}
-
+{/*dfuheighjeiofgkwop*/}
       {/* Recent Applications */}
       <View style={styles.recentSection}>
         <View style={styles.sectionHeader}>
